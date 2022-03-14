@@ -1,2 +1,6 @@
-# jsp_1
-Created with CodeSandbox
+# jsp_1 : 출력
+
+document.getElementById("one").innerHTML = "paullab"; // 문서 전체에서, one 이라는 아이디를 가져올건데, 그걸 HTML 로 출력하겠다.
+      document.write("hello world write"); // 다른, 출력방법
+      // window.alert('hello world alert') 경고 알람 출력
+      // console.log('hello world console') 콘솔에 출력
