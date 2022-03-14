@@ -7,6 +7,6 @@
 
 - document.write("hello world write"); // 다른, 출력방법
       
-      - // window.alert('hello world alert') 경고 알람 출력
+      // window.alert('hello world alert') 경고 알람 출력
       
-      - // console.log('hello world console') 콘솔에 출력
+      // console.log('hello world console') 콘솔에 출력
